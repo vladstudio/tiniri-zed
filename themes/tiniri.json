@@ -43,7 +43,7 @@
         "border.transparent": "#00000000",
         "border.disabled": "#00000033",
 
-        "element.background": "#314F52",
+        "element.background": "#2E3032",
         "element.hover": "#00000044",
         "element.active": "#00000055",
         "element.selected": "#938A8022",
@@ -238,7 +238,7 @@
         "border.transparent": "#00000000",
         "border.disabled": "#80797420",
 
-        "element.background": "#538A8A",
+        "element.background": "#E8E3DF",
         "element.hover": "#80797411",
         "element.active": "#80797422",
         "element.selected": "#80797422",
